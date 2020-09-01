@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mattias.martensson\\Desktop\\programering\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\mattias.martensson\\Documents\\GitHub\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mattias.martensson\\Desktop\\programering\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\mattias.martensson\\Documents\\GitHub\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mattias.martensson\\Desktop\\programering\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\mattias.martensson\\Documents\\GitHub\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\mattias.martensson\\Desktop\\programering\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\mattias.martensson\\Documents\\GitHub\\programmering-2\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\mattias.martensson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mattias.martensson\\Desktop\\programering\\programmering-2\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\mattias.martensson\\Documents\\GitHub\\programmering-2\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mattias.martensson\\AppData\\Roaming\\NuGet\\NuGet.Config",

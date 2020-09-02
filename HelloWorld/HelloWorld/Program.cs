@@ -21,14 +21,21 @@ namespace HelloWorld
 
                 switch (age)
                 {
-                    case >18:
-                        Console.WriteLine("du är under 18");
+                    case 17:
+                        Console.WriteLine("du är 17, haha ingen suns för di");
+                        break;
 
-                    case Z
+                    case 18:
+                        Console.WriteLine("Du är 18, Grattis!");
+                        break;
+                    default:
+                        Console.WriteLine("jag bryr mig inte hur gammal du är");
+                        break;
+
 
                 }
 
-                Console.WriteLine("Your age is: " + age);
+                Console.WriteLine("Din ålder är: " + age);
                
                 for(int i = 0; i <= 5; i++)
                 {

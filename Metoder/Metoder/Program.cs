@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Metoder
 {
@@ -9,8 +10,12 @@ namespace Metoder
 
             int[] addlist= { 3, 4, 6, 7, 8 };
 
+            String[] names = { "hej", "jag", "på", "dig" };
+
 
             Console.WriteLine(add(addlist));
+
+            Console.WriteLine(back(names));
         }
 
         static int add(int[] addlist)
@@ -27,11 +32,19 @@ namespace Metoder
 
         }
 
-        static int minus(int tal1, int tal2)
+        static String  back (String[] names)
         {
-            var sum = tal1 - tal2;
 
-            return sum;
+            string reversedArray = "";
+
+            for (int i = names.Length - 1; i >= 0; i--)
+            {
+                reversedArray += names[i];
+                reversedArray += " ";
+            }
+            return reversedArray;
+
+            
         }
 
     }

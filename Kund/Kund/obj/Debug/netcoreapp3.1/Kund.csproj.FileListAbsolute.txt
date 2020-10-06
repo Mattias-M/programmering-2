@@ -1,0 +1,13 @@
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.exe
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.deps.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.runtimeconfig.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.runtimeconfig.dev.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.dll
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\bin\Debug\netcoreapp3.1\Kund.pdb
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.csprojAssemblyReference.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.AssemblyInfoInputs.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.AssemblyInfo.cs
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.csproj.CoreCompileInputs.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.dll
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.pdb
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\Kund\Kund\obj\Debug\netcoreapp3.1\Kund.genruntimeconfig.cache

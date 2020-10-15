@@ -29,9 +29,24 @@ namespace Kund
                 switch (customerChoice)
                 {
                     case 1:
-                        Console.WriteLine("du har köpt en ´bil");
+                        Console.WriteLine("du har köpt en bil");
+                        Console.WriteLine( "Skriv 1 om du vill ha en fin bil skriv 2 om du vill ha en trågig bil.");
+                        int carOr240 = Convert.ToInt32(Console.ReadLine());
+                        Car c = new Car();
+                        switch (carOr240)
+                        {
+                            case 1:
+                            
+                                cust._cart.Add(c._240);
+                                Console.WriteLine("Du har köpt en volvo 240");
+                                break;
 
-                        cust._cart.Add(pru._car);
+                            case 2:
+                                cust._cart.Add(c._xc40);
+                                Console.WriteLine("du har köpt en volvo xc40");
+                                break;
+                        }
+                            
 
                         break;
 

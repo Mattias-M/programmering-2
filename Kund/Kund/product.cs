@@ -6,12 +6,15 @@ namespace Kund
 {
     class product
     {
-        public string _car = "bil";
 
         public string _cat = "katt";
-
-
-
-
     }
+
+    class Car : product
+    {
+        public string _240 = "volvo 240";
+
+        public string _xc40 = "volvo xc40";
+    }
+
 }

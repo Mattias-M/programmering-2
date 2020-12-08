@@ -1,0 +1,13 @@
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.exe
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.deps.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.runtimeconfig.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.runtimeconfig.dev.json
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.dll
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\bin\Debug\netcoreapp3.1\abstraktion.pdb
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.csprojAssemblyReference.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.AssemblyInfoInputs.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.AssemblyInfo.cs
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.csproj.CoreCompileInputs.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.dll
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.pdb
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\abstraktion\abstraktion\obj\Debug\netcoreapp3.1\abstraktion.genruntimeconfig.cache

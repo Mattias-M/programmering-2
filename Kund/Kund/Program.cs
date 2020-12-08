@@ -31,9 +31,9 @@ namespace Kund
                     case 1:
                         Console.WriteLine("du har köpt en bil");
                         Console.WriteLine( "Skriv 1 om du vill ha en fin bil skriv 2 om du vill ha en trågig bil.");
-                        int carOr240 = Convert.ToInt32(Console.ReadLine());
+                        int xc40Or240 = Convert.ToInt32(Console.ReadLine());
                         Car c = new Car();
-                        switch (carOr240)
+                        switch (xc40Or240)
                         {
                             case 1:
                             
@@ -47,7 +47,7 @@ namespace Kund
                                 break;
                         }
                             
-
+                       
                         break;
 
                     case 2:

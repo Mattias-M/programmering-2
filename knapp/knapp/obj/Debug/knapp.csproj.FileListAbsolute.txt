@@ -1,0 +1,15 @@
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\bin\Debug\knapp.exe.config
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\bin\Debug\knapp.exe
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\bin\Debug\knapp.pdb
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.csprojAssemblyReference.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\MainWindow.g.cs
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\App.g.cs
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp_MarkupCompile.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp_MarkupCompile.lref
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\MainWindow.baml
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.g.resources
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.Properties.Resources.resources
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.csproj.GenerateResource.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.csproj.CoreCompileInputs.cache
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.exe
+C:\Users\mattias.martensson\Documents\GitHub\programmering-2\knapp\knapp\obj\Debug\knapp.pdb
